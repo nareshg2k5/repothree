@@ -7,6 +7,23 @@
   <version>1.0-SNAPSHOT</version>
   <name>SpringExample</name>
   <url>http://maven.apache.org</url>
+
+	<properties>
+		<springVersion>4.0.5.RELEASE</springVersion>
+		<springSecurityVersion>3.2.4.RELEASE</springSecurityVersion>
+        <slf4jVersion>1.7.30</slf4jVersion>
+        <jacksonVersion>2.7.4</jacksonVersion>
+		<strutsVersion>2.5.30</strutsVersion>
+		<java.version>1.8</java.version>
+		<junit.version>4.13</junit.version>
+		<junit-jupiter.version>5.7.0</junit-jupiter.version>
+		<junit-vintage-engine>5.7.0</junit-vintage-engine>
+		<junit-platform.version>1.3.2</junit-platform.version>
+		<mockito.version>3.4.0</mockito.version>
+		<avro.version>1.7.4</avro.version>
+		<opensaml.version>3.3.0</opensaml.version>
+		<elasticapm.version>1.38.0</elasticapm.version>
+	</properties>
   
   <dependencies>
     <dependency>

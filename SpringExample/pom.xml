@@ -12,7 +12,7 @@
 		<springVersion>4.0.5.RELEASE</springVersion>
 		<springSecurityVersion>3.2.4.RELEASE</springSecurityVersion>
         <slf4jVersion>1.7.30</slf4jVersion>
-        <jacksonVersion>2.7.4</jacksonVersion>
+        <jacksonVersion>2.12.7.1</jacksonVersion>
 		<strutsVersion>2.5.30</strutsVersion>
 		<java.version>1.8</java.version>
 		<junit.version>4.13</junit.version>
